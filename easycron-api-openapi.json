@@ -1,0 +1,16 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Easycron API",
+        "description": "All registered users of EasyCron can utilize our API to manage their cron jobs without logging in easycron.com.",
+        "termsOfService": "https:\/\/www.easycron.com\/terms"
+    },
+    "servers": [
+        "httpswww.easycron.com\/rest"
+    ],
+    "paths": [],
+    "components": {
+        "schemas": []
+    }
+}
