@@ -1,0 +1,93 @@
+{
+    "name": "EasyCron",
+    "description": "EasyCron provides the most stable Cron Job Services. Here you can schedule cron jobs with execution logs, Email notifications, run time predictions and a bunch of other featuers!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1806-easycron.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "marketplaces",
+        "relative data",
+        "service api",
+        "workers"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/easycron\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Easycron API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1806-easycron.jpg",
+            "humanURL": "http:\/\/easycron.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/easycron-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Affiliates",
+            "url": "https:\/\/www.easycron.com\/affiliates\/program"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.easycron.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.easycron.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/easycron"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/easycron"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.easycron.com\/document"
+        },
+        {
+            "type": "Email",
+            "url": "info@easycron.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.easycron.com\/user\/plan"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/www.easycron.com\/privacy"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/www.easycron.com\/contact"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "https:\/\/www.easycron.com\/terms"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/easycron"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/easycron.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.easycron.com"
+        }
+    ]
+}
